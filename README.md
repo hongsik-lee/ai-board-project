@@ -34,6 +34,7 @@ npm start
 ## 공유 URL
 
 - 비주얼 허브 (GitHub Pages): https://hongsik-lee.github.io/ai-project/
+- React 데모 (GitHub Pages): https://hongsik-lee.github.io/ai-project/react/
 - 로컬 비주얼 허브: http://localhost:5173/
 
 ## 참고
